@@ -1,0 +1,1776 @@
+{
+    "data": {
+        "request": [
+            {
+                "type": "City",
+                "query": "Qingdao, China"
+            }
+        ],
+        "weather": [
+            {
+                "date": "2022-02-01",
+                "astronomy": [
+                    {
+                        "sunrise": "07:00 AM",
+                        "sunset": "05:25 PM",
+                        "moonrise": "07:14 AM",
+                        "moonset": "05:20 PM",
+                        "moon_phase": "New Moon",
+                        "moon_illumination": "0"
+                    }
+                ],
+                "maxtempC": "4",
+                "maxtempF": "39",
+                "mintempC": "-1",
+                "mintempF": "30",
+                "avgtempC": "1",
+                "avgtempF": "34",
+                "totalSnow_cm": "0.0",
+                "sunHour": "10.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "4",
+                        "tempF": "39",
+                        "windspeedMiles": "9",
+                        "windspeedKmph": "14",
+                        "winddirDegree": "287",
+                        "winddir16Point": "WNW",
+                        "weatherCode": "113",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Sunny"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "47",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1030",
+                        "pressureInches": "30",
+                        "cloudcover": "5",
+                        "HeatIndexC": "1",
+                        "HeatIndexF": "34",
+                        "DewPointC": "-8",
+                        "DewPointF": "17",
+                        "WindChillC": "-3",
+                        "WindChillF": "27",
+                        "WindGustMiles": "13",
+                        "WindGustKmph": "21",
+                        "FeelsLikeC": "-3",
+                        "FeelsLikeF": "27",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-02",
+                "astronomy": [
+                    {
+                        "sunrise": "06:59 AM",
+                        "sunset": "05:26 PM",
+                        "moonrise": "07:57 AM",
+                        "moonset": "06:33 PM",
+                        "moon_phase": "Waxing Crescent",
+                        "moon_illumination": "2"
+                    }
+                ],
+                "maxtempC": "3",
+                "maxtempF": "38",
+                "mintempC": "-1",
+                "mintempF": "30",
+                "avgtempC": "1",
+                "avgtempF": "34",
+                "totalSnow_cm": "0.0",
+                "sunHour": "1.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "3",
+                        "tempF": "38",
+                        "windspeedMiles": "6",
+                        "windspeedKmph": "10",
+                        "winddirDegree": "295",
+                        "winddir16Point": "WNW",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "42",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1032",
+                        "pressureInches": "30",
+                        "cloudcover": "86",
+                        "HeatIndexC": "1",
+                        "HeatIndexF": "34",
+                        "DewPointC": "-10",
+                        "DewPointF": "14",
+                        "WindChillC": "-2",
+                        "WindChillF": "29",
+                        "WindGustMiles": "8",
+                        "WindGustKmph": "13",
+                        "FeelsLikeC": "-2",
+                        "FeelsLikeF": "29",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-03",
+                "astronomy": [
+                    {
+                        "sunrise": "06:58 AM",
+                        "sunset": "05:27 PM",
+                        "moonrise": "08:32 AM",
+                        "moonset": "07:43 PM",
+                        "moon_phase": "Waxing Crescent",
+                        "moon_illumination": "10"
+                    }
+                ],
+                "maxtempC": "4",
+                "maxtempF": "40",
+                "mintempC": "-0",
+                "mintempF": "32",
+                "avgtempC": "2",
+                "avgtempF": "36",
+                "totalSnow_cm": "0.0",
+                "sunHour": "7.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "4",
+                        "tempF": "40",
+                        "windspeedMiles": "4",
+                        "windspeedKmph": "7",
+                        "winddirDegree": "170",
+                        "winddir16Point": "S",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "51",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1029",
+                        "pressureInches": "30",
+                        "cloudcover": "47",
+                        "HeatIndexC": "2",
+                        "HeatIndexF": "36",
+                        "DewPointC": "-6",
+                        "DewPointF": "21",
+                        "WindChillC": "0",
+                        "WindChillF": "33",
+                        "WindGustMiles": "6",
+                        "WindGustKmph": "10",
+                        "FeelsLikeC": "0",
+                        "FeelsLikeF": "33",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-04",
+                "astronomy": [
+                    {
+                        "sunrise": "06:57 AM",
+                        "sunset": "05:28 PM",
+                        "moonrise": "09:03 AM",
+                        "moonset": "08:49 PM",
+                        "moon_phase": "Waxing Crescent",
+                        "moon_illumination": "17"
+                    }
+                ],
+                "maxtempC": "4",
+                "maxtempF": "39",
+                "mintempC": "-2",
+                "mintempF": "28",
+                "avgtempC": "1",
+                "avgtempF": "34",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "4",
+                        "tempF": "39",
+                        "windspeedMiles": "10",
+                        "windspeedKmph": "16",
+                        "winddirDegree": "292",
+                        "winddir16Point": "WNW",
+                        "weatherCode": "116",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Partly cloudy"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "48",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1030",
+                        "pressureInches": "30",
+                        "cloudcover": "32",
+                        "HeatIndexC": "1",
+                        "HeatIndexF": "34",
+                        "DewPointC": "-8",
+                        "DewPointF": "18",
+                        "WindChillC": "-3",
+                        "WindChillF": "27",
+                        "WindGustMiles": "15",
+                        "WindGustKmph": "25",
+                        "FeelsLikeC": "-3",
+                        "FeelsLikeF": "27",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-05",
+                "astronomy": [
+                    {
+                        "sunrise": "06:56 AM",
+                        "sunset": "05:29 PM",
+                        "moonrise": "09:30 AM",
+                        "moonset": "09:52 PM",
+                        "moon_phase": "Waxing Crescent",
+                        "moon_illumination": "25"
+                    }
+                ],
+                "maxtempC": "3",
+                "maxtempF": "37",
+                "mintempC": "-3",
+                "mintempF": "27",
+                "avgtempC": "-0",
+                "avgtempF": "31",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "3",
+                        "tempF": "37",
+                        "windspeedMiles": "13",
+                        "windspeedKmph": "21",
+                        "winddirDegree": "322",
+                        "winddir16Point": "NW",
+                        "weatherCode": "116",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Partly cloudy"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "40",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1033",
+                        "pressureInches": "30",
+                        "cloudcover": "19",
+                        "HeatIndexC": "-0",
+                        "HeatIndexF": "31",
+                        "DewPointC": "-12",
+                        "DewPointF": "11",
+                        "WindChillC": "-6",
+                        "WindChillF": "21",
+                        "WindGustMiles": "19",
+                        "WindGustKmph": "31",
+                        "FeelsLikeC": "-6",
+                        "FeelsLikeF": "21",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-06",
+                "astronomy": [
+                    {
+                        "sunrise": "06:55 AM",
+                        "sunset": "05:30 PM",
+                        "moonrise": "09:56 AM",
+                        "moonset": "10:53 PM",
+                        "moon_phase": "Waxing Crescent",
+                        "moon_illumination": "32"
+                    }
+                ],
+                "maxtempC": "4",
+                "maxtempF": "40",
+                "mintempC": "-1",
+                "mintempF": "31",
+                "avgtempC": "2",
+                "avgtempF": "35",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "4",
+                        "tempF": "40",
+                        "windspeedMiles": "10",
+                        "windspeedKmph": "15",
+                        "winddirDegree": "308",
+                        "winddir16Point": "NW",
+                        "weatherCode": "116",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Partly cloudy"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "37",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1032",
+                        "pressureInches": "30",
+                        "cloudcover": "42",
+                        "HeatIndexC": "2",
+                        "HeatIndexF": "35",
+                        "DewPointC": "-11",
+                        "DewPointF": "12",
+                        "WindChillC": "-2",
+                        "WindChillF": "28",
+                        "WindGustMiles": "13",
+                        "WindGustKmph": "21",
+                        "FeelsLikeC": "-2",
+                        "FeelsLikeF": "28",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-07",
+                "astronomy": [
+                    {
+                        "sunrise": "06:55 AM",
+                        "sunset": "05:31 PM",
+                        "moonrise": "10:22 AM",
+                        "moonset": "11:53 PM",
+                        "moon_phase": "Waxing Crescent",
+                        "moon_illumination": "40"
+                    }
+                ],
+                "maxtempC": "4",
+                "maxtempF": "39",
+                "mintempC": "0",
+                "mintempF": "33",
+                "avgtempC": "2",
+                "avgtempF": "36",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "4",
+                        "tempF": "39",
+                        "windspeedMiles": "3",
+                        "windspeedKmph": "5",
+                        "winddirDegree": "217",
+                        "winddir16Point": "SW",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "38",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1031",
+                        "pressureInches": "30",
+                        "cloudcover": "58",
+                        "HeatIndexC": "2",
+                        "HeatIndexF": "36",
+                        "DewPointC": "-10",
+                        "DewPointF": "14",
+                        "WindChillC": "1",
+                        "WindChillF": "35",
+                        "WindGustMiles": "4",
+                        "WindGustKmph": "7",
+                        "FeelsLikeC": "1",
+                        "FeelsLikeF": "35",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-08",
+                "astronomy": [
+                    {
+                        "sunrise": "06:54 AM",
+                        "sunset": "05:32 PM",
+                        "moonrise": "10:50 AM",
+                        "moonset": "No moonset",
+                        "moon_phase": "First Quarter",
+                        "moon_illumination": "47"
+                    }
+                ],
+                "maxtempC": "5",
+                "maxtempF": "41",
+                "mintempC": "1",
+                "mintempF": "33",
+                "avgtempC": "3",
+                "avgtempF": "37",
+                "totalSnow_cm": "0.0",
+                "sunHour": "10.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "5",
+                        "tempF": "41",
+                        "windspeedMiles": "5",
+                        "windspeedKmph": "8",
+                        "winddirDegree": "259",
+                        "winddir16Point": "WSW",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "45",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1031",
+                        "pressureInches": "30",
+                        "cloudcover": "34",
+                        "HeatIndexC": "3",
+                        "HeatIndexF": "37",
+                        "DewPointC": "-7",
+                        "DewPointF": "19",
+                        "WindChillC": "1",
+                        "WindChillF": "33",
+                        "WindGustMiles": "8",
+                        "WindGustKmph": "12",
+                        "FeelsLikeC": "1",
+                        "FeelsLikeF": "33",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-09",
+                "astronomy": [
+                    {
+                        "sunrise": "06:53 AM",
+                        "sunset": "05:33 PM",
+                        "moonrise": "11:20 AM",
+                        "moonset": "12:52 AM",
+                        "moon_phase": "First Quarter",
+                        "moon_illumination": "55"
+                    }
+                ],
+                "maxtempC": "7",
+                "maxtempF": "44",
+                "mintempC": "2",
+                "mintempF": "36",
+                "avgtempC": "5",
+                "avgtempF": "40",
+                "totalSnow_cm": "0.0",
+                "sunHour": "10.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "7",
+                        "tempF": "44",
+                        "windspeedMiles": "7",
+                        "windspeedKmph": "12",
+                        "winddirDegree": "214",
+                        "winddir16Point": "SW",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "54",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1027",
+                        "pressureInches": "30",
+                        "cloudcover": "46",
+                        "HeatIndexC": "5",
+                        "HeatIndexF": "40",
+                        "DewPointC": "-3",
+                        "DewPointF": "26",
+                        "WindChillC": "2",
+                        "WindChillF": "35",
+                        "WindGustMiles": "10",
+                        "WindGustKmph": "17",
+                        "FeelsLikeC": "2",
+                        "FeelsLikeF": "35",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-10",
+                "astronomy": [
+                    {
+                        "sunrise": "06:52 AM",
+                        "sunset": "05:34 PM",
+                        "moonrise": "11:54 AM",
+                        "moonset": "01:51 AM",
+                        "moon_phase": "First Quarter",
+                        "moon_illumination": "62"
+                    }
+                ],
+                "maxtempC": "8",
+                "maxtempF": "47",
+                "mintempC": "3",
+                "mintempF": "37",
+                "avgtempC": "5",
+                "avgtempF": "41",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "8",
+                        "tempF": "47",
+                        "windspeedMiles": "7",
+                        "windspeedKmph": "11",
+                        "winddirDegree": "228",
+                        "winddir16Point": "SW",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "64",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1025",
+                        "pressureInches": "30",
+                        "cloudcover": "33",
+                        "HeatIndexC": "5",
+                        "HeatIndexF": "41",
+                        "DewPointC": "-1",
+                        "DewPointF": "31",
+                        "WindChillC": "3",
+                        "WindChillF": "37",
+                        "WindGustMiles": "10",
+                        "WindGustKmph": "15",
+                        "FeelsLikeC": "3",
+                        "FeelsLikeF": "37",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-11",
+                "astronomy": [
+                    {
+                        "sunrise": "06:51 AM",
+                        "sunset": "05:36 PM",
+                        "moonrise": "12:33 PM",
+                        "moonset": "02:49 AM",
+                        "moon_phase": "Waxing Gibbous",
+                        "moon_illumination": "70"
+                    }
+                ],
+                "maxtempC": "6",
+                "maxtempF": "42",
+                "mintempC": "4",
+                "mintempF": "38",
+                "avgtempC": "5",
+                "avgtempF": "41",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "3",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "6",
+                        "tempF": "42",
+                        "windspeedMiles": "5",
+                        "windspeedKmph": "9",
+                        "winddirDegree": "196",
+                        "winddir16Point": "SSW",
+                        "weatherCode": "116",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Partly cloudy"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "72",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1027",
+                        "pressureInches": "30",
+                        "cloudcover": "47",
+                        "HeatIndexC": "5",
+                        "HeatIndexF": "41",
+                        "DewPointC": "1",
+                        "DewPointF": "34",
+                        "WindChillC": "3",
+                        "WindChillF": "38",
+                        "WindGustMiles": "8",
+                        "WindGustKmph": "14",
+                        "FeelsLikeC": "3",
+                        "FeelsLikeF": "38",
+                        "uvIndex": "3"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-12",
+                "astronomy": [
+                    {
+                        "sunrise": "06:50 AM",
+                        "sunset": "05:37 PM",
+                        "moonrise": "01:19 PM",
+                        "moonset": "03:46 AM",
+                        "moon_phase": "Waxing Gibbous",
+                        "moon_illumination": "77"
+                    }
+                ],
+                "maxtempC": "7",
+                "maxtempF": "44",
+                "mintempC": "2",
+                "mintempF": "36",
+                "avgtempC": "5",
+                "avgtempF": "40",
+                "totalSnow_cm": "0.0",
+                "sunHour": "9.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "7",
+                        "tempF": "44",
+                        "windspeedMiles": "4",
+                        "windspeedKmph": "7",
+                        "winddirDegree": "152",
+                        "winddir16Point": "SSE",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "71",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1027",
+                        "pressureInches": "30",
+                        "cloudcover": "39",
+                        "HeatIndexC": "5",
+                        "HeatIndexF": "40",
+                        "DewPointC": "1",
+                        "DewPointF": "34",
+                        "WindChillC": "3",
+                        "WindChillF": "38",
+                        "WindGustMiles": "7",
+                        "WindGustKmph": "12",
+                        "FeelsLikeC": "3",
+                        "FeelsLikeF": "38",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-13",
+                "astronomy": [
+                    {
+                        "sunrise": "06:48 AM",
+                        "sunset": "05:38 PM",
+                        "moonrise": "02:10 PM",
+                        "moonset": "04:38 AM",
+                        "moon_phase": "Waxing Gibbous",
+                        "moon_illumination": "85"
+                    }
+                ],
+                "maxtempC": "6",
+                "maxtempF": "43",
+                "mintempC": "3",
+                "mintempF": "38",
+                "avgtempC": "5",
+                "avgtempF": "41",
+                "totalSnow_cm": "0.0",
+                "sunHour": "8.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "6",
+                        "tempF": "43",
+                        "windspeedMiles": "8",
+                        "windspeedKmph": "14",
+                        "winddirDegree": "94",
+                        "winddir16Point": "E",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "73",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1024",
+                        "pressureInches": "30",
+                        "cloudcover": "67",
+                        "HeatIndexC": "5",
+                        "HeatIndexF": "41",
+                        "DewPointC": "1",
+                        "DewPointF": "33",
+                        "WindChillC": "2",
+                        "WindChillF": "35",
+                        "WindGustMiles": "13",
+                        "WindGustKmph": "21",
+                        "FeelsLikeC": "2",
+                        "FeelsLikeF": "35",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-14",
+                "astronomy": [
+                    {
+                        "sunrise": "06:47 AM",
+                        "sunset": "05:39 PM",
+                        "moonrise": "03:07 PM",
+                        "moonset": "05:26 AM",
+                        "moon_phase": "Waxing Gibbous",
+                        "moon_illumination": "93"
+                    }
+                ],
+                "maxtempC": "5",
+                "maxtempF": "42",
+                "mintempC": "-2",
+                "mintempF": "29",
+                "avgtempC": "3",
+                "avgtempF": "37",
+                "totalSnow_cm": "0.0",
+                "sunHour": "8.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "5",
+                        "tempF": "42",
+                        "windspeedMiles": "15",
+                        "windspeedKmph": "24",
+                        "winddirDegree": "287",
+                        "winddir16Point": "WNW",
+                        "weatherCode": "176",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Patchy rain possible"
+                            }
+                        ],
+                        "precipMM": "0.5",
+                        "precipInches": "0.0",
+                        "humidity": "68",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1025",
+                        "pressureInches": "30",
+                        "cloudcover": "48",
+                        "HeatIndexC": "3",
+                        "HeatIndexF": "37",
+                        "DewPointC": "-3",
+                        "DewPointF": "27",
+                        "WindChillC": "-2",
+                        "WindChillF": "28",
+                        "WindGustMiles": "22",
+                        "WindGustKmph": "35",
+                        "FeelsLikeC": "-2",
+                        "FeelsLikeF": "28",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-15",
+                "astronomy": [
+                    {
+                        "sunrise": "06:46 AM",
+                        "sunset": "05:40 PM",
+                        "moonrise": "04:07 PM",
+                        "moonset": "06:08 AM",
+                        "moon_phase": "Full Moon",
+                        "moon_illumination": "100"
+                    }
+                ],
+                "maxtempC": "1",
+                "maxtempF": "33",
+                "mintempC": "-2",
+                "mintempF": "28",
+                "avgtempC": "-1",
+                "avgtempF": "30",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "1",
+                        "tempF": "33",
+                        "windspeedMiles": "7",
+                        "windspeedKmph": "11",
+                        "winddirDegree": "88",
+                        "winddir16Point": "E",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "53",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1028",
+                        "pressureInches": "30",
+                        "cloudcover": "47",
+                        "HeatIndexC": "-1",
+                        "HeatIndexF": "30",
+                        "DewPointC": "-9",
+                        "DewPointF": "15",
+                        "WindChillC": "-5",
+                        "WindChillF": "23",
+                        "WindGustMiles": "10",
+                        "WindGustKmph": "16",
+                        "FeelsLikeC": "-5",
+                        "FeelsLikeF": "23",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-16",
+                "astronomy": [
+                    {
+                        "sunrise": "06:45 AM",
+                        "sunset": "05:41 PM",
+                        "moonrise": "05:10 PM",
+                        "moonset": "06:45 AM",
+                        "moon_phase": "Full Moon",
+                        "moon_illumination": "100"
+                    }
+                ],
+                "maxtempC": "3",
+                "maxtempF": "37",
+                "mintempC": "-3",
+                "mintempF": "27",
+                "avgtempC": "-1",
+                "avgtempF": "30",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "3",
+                        "tempF": "37",
+                        "windspeedMiles": "12",
+                        "windspeedKmph": "19",
+                        "winddirDegree": "288",
+                        "winddir16Point": "WNW",
+                        "weatherCode": "113",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Sunny"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "52",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1030",
+                        "pressureInches": "30",
+                        "cloudcover": "13",
+                        "HeatIndexC": "-1",
+                        "HeatIndexF": "30",
+                        "DewPointC": "-9",
+                        "DewPointF": "16",
+                        "WindChillC": "-6",
+                        "WindChillF": "21",
+                        "WindGustMiles": "17",
+                        "WindGustKmph": "27",
+                        "FeelsLikeC": "-6",
+                        "FeelsLikeF": "21",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-17",
+                "astronomy": [
+                    {
+                        "sunrise": "06:44 AM",
+                        "sunset": "05:42 PM",
+                        "moonrise": "06:13 PM",
+                        "moonset": "07:18 AM",
+                        "moon_phase": "Waxing Gibbous",
+                        "moon_illumination": "85"
+                    }
+                ],
+                "maxtempC": "0",
+                "maxtempF": "32",
+                "mintempC": "-3",
+                "mintempF": "26",
+                "avgtempC": "-2",
+                "avgtempF": "28",
+                "totalSnow_cm": "0.0",
+                "sunHour": "4.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "0",
+                        "tempF": "32",
+                        "windspeedMiles": "7",
+                        "windspeedKmph": "11",
+                        "winddirDegree": "42",
+                        "winddir16Point": "NE",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "44",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1033",
+                        "pressureInches": "30",
+                        "cloudcover": "47",
+                        "HeatIndexC": "-2",
+                        "HeatIndexF": "28",
+                        "DewPointC": "-13",
+                        "DewPointF": "9",
+                        "WindChillC": "-6",
+                        "WindChillF": "22",
+                        "WindGustMiles": "11",
+                        "WindGustKmph": "17",
+                        "FeelsLikeC": "-6",
+                        "FeelsLikeF": "22",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-18",
+                "astronomy": [
+                    {
+                        "sunrise": "06:43 AM",
+                        "sunset": "05:43 PM",
+                        "moonrise": "07:16 PM",
+                        "moonset": "07:48 AM",
+                        "moon_phase": "Waxing Gibbous",
+                        "moon_illumination": "77"
+                    }
+                ],
+                "maxtempC": "3",
+                "maxtempF": "37",
+                "mintempC": "-1",
+                "mintempF": "30",
+                "avgtempC": "1",
+                "avgtempF": "34",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "3",
+                        "tempF": "37",
+                        "windspeedMiles": "6",
+                        "windspeedKmph": "9",
+                        "winddirDegree": "96",
+                        "winddir16Point": "E",
+                        "weatherCode": "116",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Partly cloudy"
+                            }
+                        ],
+                        "precipMM": "0.1",
+                        "precipInches": "0.0",
+                        "humidity": "58",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1031",
+                        "pressureInches": "30",
+                        "cloudcover": "40",
+                        "HeatIndexC": "1",
+                        "HeatIndexF": "34",
+                        "DewPointC": "-6",
+                        "DewPointF": "21",
+                        "WindChillC": "-2",
+                        "WindChillF": "29",
+                        "WindGustMiles": "8",
+                        "WindGustKmph": "13",
+                        "FeelsLikeC": "-2",
+                        "FeelsLikeF": "29",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-19",
+                "astronomy": [
+                    {
+                        "sunrise": "06:42 AM",
+                        "sunset": "05:44 PM",
+                        "moonrise": "08:20 PM",
+                        "moonset": "08:15 AM",
+                        "moon_phase": "Waning Gibbous",
+                        "moon_illumination": "70"
+                    }
+                ],
+                "maxtempC": "3",
+                "maxtempF": "37",
+                "mintempC": "-2",
+                "mintempF": "29",
+                "avgtempC": "1",
+                "avgtempF": "33",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "3",
+                        "tempF": "37",
+                        "windspeedMiles": "14",
+                        "windspeedKmph": "22",
+                        "winddirDegree": "313",
+                        "winddir16Point": "NW",
+                        "weatherCode": "116",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Partly cloudy"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "52",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1032",
+                        "pressureInches": "30",
+                        "cloudcover": "28",
+                        "HeatIndexC": "1",
+                        "HeatIndexF": "33",
+                        "DewPointC": "-8",
+                        "DewPointF": "18",
+                        "WindChillC": "-4",
+                        "WindChillF": "24",
+                        "WindGustMiles": "21",
+                        "WindGustKmph": "34",
+                        "FeelsLikeC": "-4",
+                        "FeelsLikeF": "24",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-20",
+                "astronomy": [
+                    {
+                        "sunrise": "06:41 AM",
+                        "sunset": "05:45 PM",
+                        "moonrise": "09:25 PM",
+                        "moonset": "08:42 AM",
+                        "moon_phase": "Waning Gibbous",
+                        "moon_illumination": "62"
+                    }
+                ],
+                "maxtempC": "5",
+                "maxtempF": "42",
+                "mintempC": "-1",
+                "mintempF": "29",
+                "avgtempC": "1",
+                "avgtempF": "34",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "5",
+                        "tempF": "42",
+                        "windspeedMiles": "11",
+                        "windspeedKmph": "17",
+                        "winddirDegree": "288",
+                        "winddir16Point": "WNW",
+                        "weatherCode": "113",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Sunny"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "40",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1031",
+                        "pressureInches": "30",
+                        "cloudcover": "2",
+                        "HeatIndexC": "1",
+                        "HeatIndexF": "34",
+                        "DewPointC": "-11",
+                        "DewPointF": "13",
+                        "WindChillC": "-3",
+                        "WindChillF": "26",
+                        "WindGustMiles": "15",
+                        "WindGustKmph": "24",
+                        "FeelsLikeC": "-3",
+                        "FeelsLikeF": "26",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-21",
+                "astronomy": [
+                    {
+                        "sunrise": "06:39 AM",
+                        "sunset": "05:46 PM",
+                        "moonrise": "10:30 PM",
+                        "moonset": "09:10 AM",
+                        "moon_phase": "Waning Gibbous",
+                        "moon_illumination": "55"
+                    }
+                ],
+                "maxtempC": "7",
+                "maxtempF": "44",
+                "mintempC": "0",
+                "mintempF": "32",
+                "avgtempC": "3",
+                "avgtempF": "37",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "7",
+                        "tempF": "44",
+                        "windspeedMiles": "10",
+                        "windspeedKmph": "16",
+                        "winddirDegree": "257",
+                        "winddir16Point": "WSW",
+                        "weatherCode": "113",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Sunny"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "38",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1030",
+                        "pressureInches": "30",
+                        "cloudcover": "4",
+                        "HeatIndexC": "3",
+                        "HeatIndexF": "37",
+                        "DewPointC": "-10",
+                        "DewPointF": "15",
+                        "WindChillC": "-1",
+                        "WindChillF": "30",
+                        "WindGustMiles": "14",
+                        "WindGustKmph": "22",
+                        "FeelsLikeC": "-1",
+                        "FeelsLikeF": "30",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-22",
+                "astronomy": [
+                    {
+                        "sunrise": "06:38 AM",
+                        "sunset": "05:47 PM",
+                        "moonrise": "11:39 PM",
+                        "moonset": "09:40 AM",
+                        "moon_phase": "Last Quarter",
+                        "moon_illumination": "47"
+                    }
+                ],
+                "maxtempC": "4",
+                "maxtempF": "40",
+                "mintempC": "-2",
+                "mintempF": "29",
+                "avgtempC": "1",
+                "avgtempF": "33",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "4",
+                        "tempF": "40",
+                        "windspeedMiles": "11",
+                        "windspeedKmph": "18",
+                        "winddirDegree": "279",
+                        "winddir16Point": "W",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "36",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1036",
+                        "pressureInches": "31",
+                        "cloudcover": "35",
+                        "HeatIndexC": "1",
+                        "HeatIndexF": "33",
+                        "DewPointC": "-12",
+                        "DewPointF": "10",
+                        "WindChillC": "-4",
+                        "WindChillF": "25",
+                        "WindGustMiles": "15",
+                        "WindGustKmph": "24",
+                        "FeelsLikeC": "-4",
+                        "FeelsLikeF": "25",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-23",
+                "astronomy": [
+                    {
+                        "sunrise": "06:37 AM",
+                        "sunset": "05:47 PM",
+                        "moonrise": "No moonrise",
+                        "moonset": "10:14 AM",
+                        "moon_phase": "Last Quarter",
+                        "moon_illumination": "40"
+                    }
+                ],
+                "maxtempC": "3",
+                "maxtempF": "37",
+                "mintempC": "-2",
+                "mintempF": "28",
+                "avgtempC": "0",
+                "avgtempF": "32",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "1",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "3",
+                        "tempF": "37",
+                        "windspeedMiles": "5",
+                        "windspeedKmph": "8",
+                        "winddirDegree": "151",
+                        "winddir16Point": "SSE",
+                        "weatherCode": "122",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Overcast"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "38",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1037",
+                        "pressureInches": "31",
+                        "cloudcover": "33",
+                        "HeatIndexC": "0",
+                        "HeatIndexF": "32",
+                        "DewPointC": "-12",
+                        "DewPointF": "11",
+                        "WindChillC": "-2",
+                        "WindChillF": "28",
+                        "WindGustMiles": "7",
+                        "WindGustKmph": "11",
+                        "FeelsLikeC": "-2",
+                        "FeelsLikeF": "28",
+                        "uvIndex": "1"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-24",
+                "astronomy": [
+                    {
+                        "sunrise": "06:36 AM",
+                        "sunset": "05:48 PM",
+                        "moonrise": "12:49 AM",
+                        "moonset": "10:54 AM",
+                        "moon_phase": "Last Quarter",
+                        "moon_illumination": "32"
+                    }
+                ],
+                "maxtempC": "7",
+                "maxtempF": "45",
+                "mintempC": "2",
+                "mintempF": "36",
+                "avgtempC": "4",
+                "avgtempF": "40",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "7",
+                        "tempF": "45",
+                        "windspeedMiles": "11",
+                        "windspeedKmph": "18",
+                        "winddirDegree": "218",
+                        "winddir16Point": "SW",
+                        "weatherCode": "113",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Sunny"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "64",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1032",
+                        "pressureInches": "30",
+                        "cloudcover": "3",
+                        "HeatIndexC": "4",
+                        "HeatIndexF": "40",
+                        "DewPointC": "-2",
+                        "DewPointF": "29",
+                        "WindChillC": "1",
+                        "WindChillF": "33",
+                        "WindGustMiles": "16",
+                        "WindGustKmph": "26",
+                        "FeelsLikeC": "1",
+                        "FeelsLikeF": "33",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-25",
+                "astronomy": [
+                    {
+                        "sunrise": "06:34 AM",
+                        "sunset": "05:49 PM",
+                        "moonrise": "02:00 AM",
+                        "moonset": "11:43 AM",
+                        "moon_phase": "Last Quarter",
+                        "moon_illumination": "24"
+                    }
+                ],
+                "maxtempC": "9",
+                "maxtempF": "48",
+                "mintempC": "5",
+                "mintempF": "41",
+                "avgtempC": "7",
+                "avgtempF": "44",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "3",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "9",
+                        "tempF": "48",
+                        "windspeedMiles": "14",
+                        "windspeedKmph": "22",
+                        "winddirDegree": "211",
+                        "winddir16Point": "SSW",
+                        "weatherCode": "113",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Sunny"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "75",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1026",
+                        "pressureInches": "30",
+                        "cloudcover": "2",
+                        "HeatIndexC": "7",
+                        "HeatIndexF": "44",
+                        "DewPointC": "2",
+                        "DewPointF": "36",
+                        "WindChillC": "3",
+                        "WindChillF": "37",
+                        "WindGustMiles": "21",
+                        "WindGustKmph": "33",
+                        "FeelsLikeC": "3",
+                        "FeelsLikeF": "37",
+                        "uvIndex": "3"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-26",
+                "astronomy": [
+                    {
+                        "sunrise": "06:33 AM",
+                        "sunset": "05:50 PM",
+                        "moonrise": "03:09 AM",
+                        "moonset": "12:40 PM",
+                        "moon_phase": "Waning Crescent",
+                        "moon_illumination": "17"
+                    }
+                ],
+                "maxtempC": "10",
+                "maxtempF": "51",
+                "mintempC": "3",
+                "mintempF": "38",
+                "avgtempC": "7",
+                "avgtempF": "44",
+                "totalSnow_cm": "0.0",
+                "sunHour": "8.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "10",
+                        "tempF": "51",
+                        "windspeedMiles": "15",
+                        "windspeedKmph": "25",
+                        "winddirDegree": "269",
+                        "winddir16Point": "W",
+                        "weatherCode": "176",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Patchy rain possible"
+                            }
+                        ],
+                        "precipMM": "0.2",
+                        "precipInches": "0.0",
+                        "humidity": "61",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1021",
+                        "pressureInches": "30",
+                        "cloudcover": "31",
+                        "HeatIndexC": "7",
+                        "HeatIndexF": "44",
+                        "DewPointC": "-0",
+                        "DewPointF": "32",
+                        "WindChillC": "3",
+                        "WindChillF": "38",
+                        "WindGustMiles": "23",
+                        "WindGustKmph": "36",
+                        "FeelsLikeC": "3",
+                        "FeelsLikeF": "38",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-27",
+                "astronomy": [
+                    {
+                        "sunrise": "06:32 AM",
+                        "sunset": "05:51 PM",
+                        "moonrise": "04:11 AM",
+                        "moonset": "01:47 PM",
+                        "moon_phase": "Waning Crescent",
+                        "moon_illumination": "9"
+                    }
+                ],
+                "maxtempC": "8",
+                "maxtempF": "47",
+                "mintempC": "2",
+                "mintempF": "36",
+                "avgtempC": "5",
+                "avgtempF": "42",
+                "totalSnow_cm": "0.0",
+                "sunHour": "11.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "8",
+                        "tempF": "47",
+                        "windspeedMiles": "9",
+                        "windspeedKmph": "15",
+                        "winddirDegree": "222",
+                        "winddir16Point": "SW",
+                        "weatherCode": "119",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Cloudy"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "54",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1025",
+                        "pressureInches": "30",
+                        "cloudcover": "26",
+                        "HeatIndexC": "5",
+                        "HeatIndexF": "42",
+                        "DewPointC": "-3",
+                        "DewPointF": "26",
+                        "WindChillC": "2",
+                        "WindChillF": "36",
+                        "WindGustMiles": "14",
+                        "WindGustKmph": "23",
+                        "FeelsLikeC": "2",
+                        "FeelsLikeF": "36",
+                        "uvIndex": "2"
+                    }
+                ]
+            },
+            {
+                "date": "2022-02-28",
+                "astronomy": [
+                    {
+                        "sunrise": "06:30 AM",
+                        "sunset": "05:52 PM",
+                        "moonrise": "05:05 AM",
+                        "moonset": "02:58 PM",
+                        "moon_phase": "Waning Crescent",
+                        "moon_illumination": "2"
+                    }
+                ],
+                "maxtempC": "7",
+                "maxtempF": "45",
+                "mintempC": "6",
+                "mintempF": "42",
+                "avgtempC": "6",
+                "avgtempF": "43",
+                "totalSnow_cm": "0.0",
+                "sunHour": "10.0",
+                "uvIndex": "2",
+                "hourly": [
+                    {
+                        "time": "24",
+                        "tempC": "7",
+                        "tempF": "45",
+                        "windspeedMiles": "8",
+                        "windspeedKmph": "14",
+                        "winddirDegree": "185",
+                        "winddir16Point": "S",
+                        "weatherCode": "119",
+                        "weatherIconUrl": [
+                            {
+                                "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0003_white_cloud.png"
+                            }
+                        ],
+                        "weatherDesc": [
+                            {
+                                "value": "Cloudy"
+                            }
+                        ],
+                        "precipMM": "0.0",
+                        "precipInches": "0.0",
+                        "humidity": "84",
+                        "visibility": "10",
+                        "visibilityMiles": "6",
+                        "pressure": "1017",
+                        "pressureInches": "30",
+                        "cloudcover": "60",
+                        "HeatIndexC": "6",
+                        "HeatIndexF": "43",
+                        "DewPointC": "4",
+                        "DewPointF": "39",
+                        "WindChillC": "4",
+                        "WindChillF": "39",
+                        "WindGustMiles": "14",
+                        "WindGustKmph": "23",
+                        "FeelsLikeC": "4",
+                        "FeelsLikeF": "39",
+                        "uvIndex": "2"
+                    }
+                ]
+            }
+        ]
+    }
+}
